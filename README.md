@@ -2,6 +2,8 @@
 
 # Reading
 ## TEE
+- https://dl.acm.org/doi/full/10.1145/3652597?utm_source=chatgpt.com
+    - Good paper about TDX
 ## SMC
 - https://github.com/rdragos/awesome-mpc
     - Contains a lot of pointers and a good starting point in general 
@@ -11,7 +13,7 @@
     - Good PhD thesis that provides a good introduction
 - https://eprint.iacr.org/2024/386.pdf
     - Paper covering the MPC framework developed at the chair
-- 
+-  
 # Libraries/ Frameworks
 ## TEE
 - Dstack:
