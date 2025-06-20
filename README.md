@@ -1,5 +1,7 @@
 # General Information
 
+Here are some useful resources for the hackathon challenge. 
+
 # Reading
 ## TEE
 - https://dl.acm.org/doi/full/10.1145/3652597?utm_source=chatgpt.com
@@ -16,6 +18,9 @@
 -  
 # Libraries/ Frameworks
 ## TEE
+- Canonical TDX tools
+   - Repo: https://github.com/canonical/tdx
+
 - Dstack:
    - Docs: https://docs.phala.network/overview/phala-network/dstack
    - Github: https://github.com/Dstack-TEE/dstack
