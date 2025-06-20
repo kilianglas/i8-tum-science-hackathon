@@ -6,6 +6,7 @@ Here are some useful resources for the hackathon challenge.
 ## TEE
 - https://dl.acm.org/doi/full/10.1145/3652597?utm_source=chatgpt.com
     - Good paper about TDX
+
 ## SMC
 - https://github.com/rdragos/awesome-mpc
     - Contains a lot of pointers and a good starting point in general 
@@ -20,12 +21,14 @@ Here are some useful resources for the hackathon challenge.
 ## TEE
 - Canonical TDX tools
    - Repo: https://github.com/canonical/tdx
-
 - Dstack:
    - Docs: https://docs.phala.network/overview/phala-network/dstack
    - Github: https://github.com/Dstack-TEE/dstack
    - Developer friendly way to deploy applications in confidential VMs
    - Has local emulation you can use
+- Remote attestation
+   - https://phala.network/posts/understanding-tdx-attestation-reports-a-developers-guide
+   - https://github.com/google/go-tpm-tools 
 ## SMC
 - TensorFlow Federated: 
     - Link: https://www.tensorflow.org/federated
